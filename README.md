@@ -23,4 +23,4 @@ Please add a code comment linking back to this repository when you use this code
 
 ## Contact
 
-Daniel Friesen
+Daniel Friesen djmartens.friesen@gmail.com
