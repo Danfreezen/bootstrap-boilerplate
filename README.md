@@ -9,7 +9,7 @@ A simple HTML5 Bootstrap template including the required CSS and JS for Bootstra
 
 ## Installation
 - Git must be installed
-- Clone repository 'git clone <repo>'
+- Clone repository `git clone https://github.com/Danfreezen/bootstrap-boilerplate.git`
 - [VS Code](https://code.visualstudio.com/) or other text editor
 
 ## Contributing
