@@ -15,11 +15,12 @@ A simple HTML5 Bootstrap template including the required CSS and JS for Bootstra
 ## Contributing
 
 ## License
+Open Source Code
 
 ## Citation
 
-- Please add a code comment linking back to this repository when you use this code.
+Please add a code comment linking back to this repository when you use this code.
 
 ## Contact
 
-- Daniel Friesen
+Daniel Friesen
